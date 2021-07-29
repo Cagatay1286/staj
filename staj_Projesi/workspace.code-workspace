@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\staj_Projesi2\\wwwroot"
+		},
+		{
+			"path": "..\\staj_Projesi2\\.vscode"
+		},
+		{
+			"path": "..\\staj_Projesi2\\bin"
+		},
+		{
+			"path": "..\\staj_Projesi2\\obj"
+		},
+		{
+			"path": "..\\staj_Projesi2\\Pages"
+		},
+		{
+			"path": "..\\staj_Projesi2\\Properties"
+		}
+	],
+	"settings": {}
+}
